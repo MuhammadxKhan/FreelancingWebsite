@@ -11,6 +11,6 @@ It was made with:
 -JavaScript
 
 
-I hope to integrate:
+Software To Be Integrating in the near future:
 -React
 
